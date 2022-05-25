@@ -1,3 +1,3 @@
 # DiceGame
 
-A simple website like "flip the coin" website built using HTML, CSS and JavaScript.
+Want to toss or flip a coin? Why not roll a dice? Roll it [here](https://jay-shete.github.io/DiceGame/).
